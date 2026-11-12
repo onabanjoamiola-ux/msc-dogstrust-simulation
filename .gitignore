@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files — not included per Dogs Trust data sharing agreement
+data/
+*.csv
+*.xlsx
+*.xls
